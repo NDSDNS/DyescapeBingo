@@ -113,7 +113,8 @@ export default {
 			"Imposter gets voted out first round",
 			"Someone's wires gets cut off because of meeting",
 			"Votes out crew member with 3 people left",
-			"Someone goes into a room that you were just in to kill and then gets voted out during voting time"
+			"Someone goes into a room that you were just in to kill and then gets voted out during voting time",
+			"Someone dies while doing med scan"
 			
 		]
 	}},
